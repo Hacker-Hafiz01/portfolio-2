@@ -11,7 +11,7 @@
     .navbari{
         padding: 0px;
         margin: 0px;
-        background-image: url('/img/designer_1.png');
+        background-image: url('img/designer_1.png');
         background-repeat: no-repeat;
         background-size: 70% 100%; /* Это свойство растянет изображение на весь контейнер */
         background-position: 100% 0%; /* Центрирует изображение в контейнере */
