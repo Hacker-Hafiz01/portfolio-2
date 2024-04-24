@@ -1,0 +1,243 @@
+@media (min-width: 1000px) {
+    *{
+        padding: 0px;
+        margin: 0px;
+        font-family:  "Roboto", sans-serif;
+    }
+
+
+    /*HEADER START*/
+
+    .navbari{
+        padding: 0px;
+        margin: 0px;
+        background-image: url('/img/designer_1.png');
+        background-repeat: no-repeat;
+        background-size: 70% 100%; /* Это свойство растянет изображение на весь контейнер */
+        background-position: 100% 0%; /* Центрирует изображение в контейнере */
+        height: 100vh; /* Высота контейнера будет равна 100% видимой части экрана */
+        height: 1000px;
+
+    }
+
+    .navo, ul, li, a{
+        display: flex;
+        margin-left: 30px;
+        list-style-type: none;
+        text-decoration: none;
+        font-family: "Roboto", sans-serif;
+        margin-top: 0px;
+
+    }
+
+    a{
+        color: #505F98;
+        margin-top: 10px;
+    }
+
+    .landing{
+        margin-left: 380px;
+        color: #37447E;
+        margin-top: 10px;
+    }
+
+    .button-header{
+        margin-left: 500px;
+        margin-top: 10px;
+        border: none;
+        padding-left: 50px;
+        padding-right: 50px;
+        background-color: #111B47;
+        color: white;
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+
+    
+    .wallpeper{
+        margin-top: 250px;
+        margin-left: 163px;
+        display: flex;
+        font-size: 25px;
+    }
+
+   */* .group{
+        width: 600px;
+        height: 600px;
+        margin-left: 500px;
+        z-index: -1;
+    }*/
+   
+    .lop{
+        font-size: 35px;
+        font-family:  "Roboto", sans-serif;
+    }
+    
+    .hero{
+        margin-left: 168px;
+        margin-top: 20px;
+        color: #505F98;
+    }
+
+
+    .two-buttons{
+        display: flex;
+        margin-left: 168px;
+        margin-top: 50px;
+    }
+
+
+  
+
+
+    .btn-two{
+     margin-left: 100px;
+     border: none;
+     background-color: transparent;
+     border: 3px solid #091133;
+     padding-left: 40px;
+     padding-right: 40px;
+     padding-bottom: 5px;
+     padding-top: 5px;
+
+    }
+
+    .btn-one{
+     background-color: #091133;
+     border: none;
+     color: white;
+     padding-left: 40px;
+     padding-right: 40px;
+     padding-bottom: 7px;
+     padding-top: 7px;
+     margin-left: 7px;
+    }
+
+    /*HEADER END*/
+
+
+    .blog-two {
+        background-image: url("img/undraw_mobile_login_ikmv.png");
+        background-repeat: no-repeat;
+        background-position: 85% 0%;
+        background-size: 30% 90%;
+        margin-bottom: 100px;
+        height: 500px;
+    }
+
+    .mobil-text{
+        margin-top: 100px;
+    }
+
+    .fast{
+        padding-top: 20px;
+        margin-left: 100px;
+    }
+
+    .lorem{
+        margin-top: 50px;
+        margin-left: 100px;
+    }
+
+    .mini-blog-two{
+        display: flex;
+        margin-top: 50px;
+    }
+
+    .item-blog{
+        margin-left: 100px;
+        margin-top: 50px;
+    }
+
+    .blog-three{
+        background-image: url("img/undraw_happy_news_hxmt.png");
+        background-repeat: no-repeat;
+        background-position: 10% 20%;
+        background-size: 40% 90%;
+        height: 500px;
+    }
+
+    .fast-two{
+        padding-top: 100px;
+        margin-left: 900px;
+    }
+
+    .lorem-two{
+        margin-left: 900px;
+        margin-top: 50px;
+    }
+
+    .blog-four{
+        background-image: url("img/undraw_social_influencer_sgsv.png");
+        background-repeat: no-repeat;
+        background-position: 10% 20%;
+        background-size: 40% 90%;
+        height: 500px;
+    }
+
+    .blog-five{
+        background-image: url("img/undraw_mention_6k5d.png");
+        background-repeat: no-repeat;
+        background-position: 10% 20%;
+        background-size: 40% 90%;
+        height: 500px;
+    }
+
+    .blog-six{
+      background-image: url("img/Rectangle.png");
+      padding-bottom: 200px;
+      
+    }
+
+    .cont{
+     margin-left: 650px;
+     margin-top: 120px;
+     padding-top: 80px;
+    }
+
+    .p-cont{
+     margin-left: 650px;
+     margin-top: 25px;
+    }
+
+    .cont-two{
+     margin-left: 750px;
+     margin-top: 50px;
+    }
+    
+    .p-cont-two{
+     margin-left: 720px;
+     margin-top: 10px;
+    }
+
+    .button-p-two{
+        background-color: #091133;
+        border: none;
+        color: white;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-bottom: 7px;
+        padding-top: 7px;
+        margin-left: 700px;
+        margin-top: 60px;
+        
+    }
+
+
+    .blog-seven{
+        background-color: #E7ECFF;
+    }
+
+    .bit{
+        background-color: #091133;
+        border: none;
+        color: white;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-bottom: 7px;
+        padding-top: 7px;
+        margin-left: 900px;
+        margin-top: 60px;
+    }
+
+}
